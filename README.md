@@ -45,5 +45,3 @@ Sou dev fullstack formado na Kenzie Academy Brasil. Tenho pouca experiência tra
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelobarilari/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:angelobarilari@outlook.com)
-
-![snake gif](https://github.com/angelobarilari/angelobarilari/blob/output/github-contribution-grid-snake.svg)
