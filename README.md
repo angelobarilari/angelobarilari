@@ -1,4 +1,4 @@
-## Olá, eu sou o Angelo Barilari e sou dev fullstack 👋
+## Olá, eu me chamo Angelo Barilari e sou dev fullstack 👋
 Sou dev fullstack formado na Kenzie Academy Brasil. Tenho pouca experiência trabalhando na área e estou em busca de novas oportunidades. Seja bem-vindo ao meu github!
 
 ![Angelo Barilari gitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=gruvbox)
