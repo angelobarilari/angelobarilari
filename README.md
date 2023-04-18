@@ -4,7 +4,7 @@
 
 ### Tecnologias que utilizo/utilizei nos meus estudos/trabalho
 
-<div style="display: flex">
+<div style="display: inline block">
   <div style="display: inline block"> <br />
     <img
       alt="html5"
