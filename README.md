@@ -2,7 +2,7 @@
 
 ![Angelo Barilari gitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=gruvbox)
 
-### Tecnologias que utilizo/utilizei nos meus estudos/trabalho
+## Tecnologias que utilizo/utilizei nos meus estudos/trabalho
 
 <div style="display: inline block"> <br />
     <img
