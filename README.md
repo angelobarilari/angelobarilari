@@ -27,9 +27,6 @@
       alt="django"
       src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img
-      alt="express"
-      src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-    <img
       alt="react"
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img
