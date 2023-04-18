@@ -4,9 +4,8 @@
 
 ### Tecnologias que utilizo/utilizei nos meus estudos/trabalho
 
-<div style="display: inline block> <br />
+<div style="display: inline block"> <br />
   <img
-    align="center"
     alt="html5"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
