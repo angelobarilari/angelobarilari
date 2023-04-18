@@ -18,6 +18,24 @@
 
 <div style="display: inline_block"> <br />
   <img
+    alt="javascript"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+<div style="display: inline_block"> <br />
+  <img
+    alt="nodejs"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+<div style="display: inline_block"> <br />
+  <img
+    alt="typescript"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+<div style="display: inline_block"> <br />
+  <img
     alt="python"
     src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -50,30 +68,6 @@
   <img
     alt="jest"
     src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-</div>
-
-<div style="display: inline_block"> <br />
-  <img
-    alt=""
-    src="" />
-</div>
-
-<div style="display: inline_block"> <br />
-  <img
-    alt=""
-    src="" />
-</div>
-
-<div style="display: inline_block"> <br />
-  <img
-    alt=""
-    src="" />
-</div>
-
-<div style="display: inline_block"> <br />
-  <img
-    alt=""
-    src="" />
 </div>
 
 <!-- <div>
