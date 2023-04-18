@@ -1,12 +1,7 @@
 ## Olá, eu sou o Angelo Barilari e sou dev fullstack 👋
 Sou dev fullstack formado na Kenzie Academy Brasil. Tenho pouca experiência trabalhando na área e estou em busca de novas oportunidades. Seja bem-vindo ao meu github!
 
-<div>
-    ![Angelo Barilari gitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=gruvbox)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelobarilari&layout=compact)](https://github.com/angelobarilari/github-readme-stats)
-</div>
-<!-- ![Angelo Barilari gitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelobarilari&layout=compact)](https://github.com/angelobarilari/github-readme-stats) -->
+![Angelo Barilari gitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=gruvbox)
 
 ## Tecnologias que utilizo/utilizei nos meus estudos/trabalho
 
