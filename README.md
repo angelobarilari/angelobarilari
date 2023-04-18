@@ -1,6 +1,6 @@
 ### Olá, eu sou o Angelo Barilari e sou dev fullstack 👋
 
-![Angelo Barilari GitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=dark)
+![Angelo Barilari GitHub stats](https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=merko)
 
 ### Tecnologias que eu já utilizei nos meus estudos/trabalho
 
