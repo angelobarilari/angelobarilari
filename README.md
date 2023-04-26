@@ -6,7 +6,7 @@ Sou dev fullstack formado na Kenzie Academy Brasil. Tenho pouca experiência tra
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelobarilari&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
-## Tecnologias que utilizo/utilizei nos meus estudos/trabalho
+## Tecnologias que utilizo nos meus estudos/trabalho
 
 <div style="display: inline block"> <br />
     <img
