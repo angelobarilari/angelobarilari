@@ -28,6 +28,9 @@ Sou dev fullstack formado na Kenzie Academy Brasil. Tenho pouca experiência tra
       alt="python"
       src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img
+         alt="django"
+         src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img
       alt="react"
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img
