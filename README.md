@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Angelo Barilari e sou dev fullstack 👋
-Sou dev fullstack formado na Kenzie Academy Brasil. Tenho pouca experiência trabalhando na área e estou em busca de novas oportunidades. Seja bem-vindo ao meu github!
+Sou dev fullstack formado na Kenzie Academy Brasil. Estou em busca de novas oportunidades para aplicar meus conhecimentos e habilidades no desenvolvimento de soluções web. Seja bem-vindo ao meu github!
 
 <div align="center">
   <a href="https://github.com/angelobarilari">
